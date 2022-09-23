@@ -1,0 +1,9 @@
+nav();
+ban();
+function nav() {
+    $("#nav").load("nav.html");
+}
+ban();
+function ban() {
+    $("#banp").load("banner.html");
+}
